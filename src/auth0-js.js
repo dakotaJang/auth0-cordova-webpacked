@@ -1,0 +1,1 @@
+window.auth0js = require('auth0-js');

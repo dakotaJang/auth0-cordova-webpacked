@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "webpack": "webpack --mode production"
+  },
+  "dependencies": {
+    "@auth0/cordova": "^0.3.0",
+    "auth0-js": "^9.6.1",
+    "webpack": "^4.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.13"
+  }
+}

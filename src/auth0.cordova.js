@@ -1,0 +1,1 @@
+window.Auth0Cordova = require('@auth0/cordova');
